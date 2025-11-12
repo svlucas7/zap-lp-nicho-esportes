@@ -1,5 +1,12 @@
 ﻿# Landing Page — Nicho Esportes
 
+[![Demo](https://img.shields.io/badge/demo-online-success?logo=netlify)](https://nichoesportes.netlify.app/)
+
+| Tema | Stack | Demo |
+|---|---|---|
+| Esportes | HTML, Tailwind CSS, JS | https://nichoesportes.netlify.app/ |
+
+
 ![Preview](docs/preview.png)
 
 
